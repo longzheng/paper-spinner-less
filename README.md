@@ -1,6 +1,9 @@
 # paper-spinner-less
 LESS version of [Google's Paper Spinner element](https://github.com/polymerelements/paper-spinner)
 
+## Demo
+https://cdn.rawgit.com/longzheng/paper-spinner-less/master/demo.html
+
 ## How to use
 Include the CSS
 ```html
