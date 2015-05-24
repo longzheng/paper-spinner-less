@@ -3,6 +3,7 @@ LESS version of [Google's Paper Spinner element](https://github.com/polymereleme
 
 ## Demo
 https://cdn.rawgit.com/longzheng/paper-spinner-less/master/demo.html
+![spinner](https://cloud.githubusercontent.com/assets/484912/7788146/60329bb2-0272-11e5-9430-5f680fc43fa0.gif)
 
 ## How to use
 Include the CSS
