@@ -59,11 +59,11 @@ Insert the spinner template. Unfortunately due to the way the spinner is animate
 In the LESS file, you can customize the color options by using the mixin.
 ```less
 // Custom color
-.paper-spinner.custom {
+.paper-spinner.customcolor {
 	.paper-spinner(#00fc38);
 }
 ```
 Then add the class in your HTML
 ```html
-<div class="paper-spinner red">
+<div class="paper-spinner customcolor">
 ```
